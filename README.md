@@ -121,17 +121,17 @@ jupyter notebook notebooks/customer_churn_prediction.ipynb
 ## 📊 Visualizations
 
 ### Churn Distribution
-![Churn Distribution](visualizations/01_churn_distribution.png)
+![Churn Distribution](churn-prediction/visualizations/01_churn_distribution.png)
 
 ### Top Churn Predictors
-![Feature Importance](visualizations/08_feature_importance.png)
+![Feature Importance](churn-prediction/visualizations/08_feature_importance.png)
 
 ### Model Performance
-![Model Comparison](visualizations/09_model_comparison.png)
+![Model Comparison](churn-prediction/visualizations/09_model_comparison.png)
 
 ## 📝 Portfolio
 
-View the complete case study: [Portfolio PDF](portfolio/Churn_Prediction_Portfolio_Vada_Raharja.pdf)
+View the complete case study: [Portfolio PDF](churn-prediction/portfolio/Churn_Prediction_Portfolio_Vada_Raharja.pdf)
 
 ## 🎯 Skills Demonstrated
 
