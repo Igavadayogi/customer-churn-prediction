@@ -2,7 +2,7 @@
 
 Predictive analytics project identifying at-risk telecom customers before they churn, enabling proactive retention campaigns.
 
-![Model Comparison](visualizations/09_model_comparison.png)
+![Model Comparison](churn-prediction/visualizations/09_model_comparison.png)
 
 ## 📊 Project Overview
 
