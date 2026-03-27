@@ -8,6 +8,11 @@ Predictive analytics project identifying at-risk telecom customers before they c
 
 Built and compared machine learning models to predict customer churn for a telecom company. The best-performing model (Logistic Regression) achieved **79.99% accuracy** and identified **1,064 at-risk customers**, enabling targeted retention campaigns worth **$231,756 in annual net revenue**.
 
+## 📊 Interactive Dashboard
+**[View Live Tableau Dashboard →](https://public.tableau.com/views/TelecomChurnDashboard270326/ChurnAnalysisDashboard)**
+
+Built in Tableau Public: churn rate by contract type, tenure, monthly charges (treemap), and top churn reasons. Includes KPI tiles showing $1.67M annual revenue at risk.
+
 **Key Results:**
 - **Accuracy:** 79.99%
 - **Recall:** 56.95% (identified 57% of churners)
